@@ -1,6 +1,6 @@
 # Introduction to Engineering Curriculum
 
-##Linux
+## Linux
 
 #### 1) The Linux Command Line
 Primer for using the Linux.Includes introduction to shell scripting and vim editor. 
