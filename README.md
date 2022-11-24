@@ -42,6 +42,7 @@ The other "How it Works" guide to Linux reference for studying. More up to date,
 - Writing Documents on GitHub [Markdown Guide](https://github.com/tldr-pages/tldr)
 - VSCode
 - Github CLI [brew install gh](https://cli.github.com/)
+- Trello
 
 #### Projects:  
 Run Linux on Home or VPS
