@@ -1,4 +1,4 @@
-# Engineering Curriculum
+# Introduction to Engineering Curriculum
 
 ##Linux
 
@@ -20,14 +20,18 @@ Work through all exercises.  Refer to reference resources below as needed.
 
 #### Reference Material
 #####UNIX and Linux System Administration Handbook, Fifth Edition
+
 [Amazon](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/)
+
 Classic general reference textbook for Linux system administration.  "How it works" 1200 pages
 
 
 #####How Linux Works, 3rd Edition: What Every Superuser Should Know 3rd Edition
-The other "How it Works" guide to Linux reference for studying. More up to date, less comprehensive. Excellent publisher and writing style. 400 pages
 
 [Amazon](https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408/)
+
+The other "How it Works" guide to Linux reference for studying. More up to date, less comprehensive. Excellent publisher and writing style. 400 pages
+
 
 
 ### 3)Additional Tools of the trade
@@ -53,9 +57,15 @@ Run Linux on Home or VPS
 [LPIC test 2](https://www.lpi.org/our-certifications/exam-202-objectives)
 
 ##Cloud
-AWS Cloud Practitioner
+- awscli
+- AWS Cloud Practitioner Training
 
 ##Coding
-Python
+learn basic Python.  Many tutorials online.
 
+
+#Career specialization:
+[Meta developer curriculum](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+
+[Python Mega Course - Ardit Sulce on Udemy](https://www.udemy.com/course/the-python-mega-course/)
  
