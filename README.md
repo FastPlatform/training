@@ -2,7 +2,7 @@
 
 ##Linux
 
-####1) The Linux Command Line
+#### 1) The Linux Command Line
 Primer for using the Linux.Includes introduction to shell scripting and vim editor. 
 
 [Amazon](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523)
@@ -10,7 +10,7 @@ Primer for using the Linux.Includes introduction to shell scripting and vim edit
 Work through the entire book and do all exercises.
 
 
-####2) Linux in Action
+#### 2) Linux in Action
 Exercises to learn basic Linux system administration. 
 
 [Amazon](https://www.amazon.com/Linux-Action-David-Clinton/dp/1617294934/)
@@ -19,14 +19,14 @@ Work through all exercises.  Refer to reference resources below as needed.
 
 
 #### Reference Material
-#####UNIX and Linux System Administration Handbook, Fifth Edition
+##### UNIX and Linux System Administration Handbook, Fifth Edition
 
 [Amazon](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/)
 
 Classic general reference textbook for Linux system administration.  "How it works" 1200 pages
 
 
-#####How Linux Works, 3rd Edition: What Every Superuser Should Know 3rd Edition
+##### How Linux Works, 3rd Edition: What Every Superuser Should Know 3rd Edition
 
 [Amazon](https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408/)
 
@@ -56,15 +56,15 @@ Run Linux on Home or VPS
 
 [LPIC test 2](https://www.lpi.org/our-certifications/exam-202-objectives)
 
-##Cloud
+## Cloud
 - awscli
 - AWS Cloud Practitioner Training
 
-##Coding
+## Coding
 learn basic Python.  Many tutorials online.
 
 
-#Career specialization:
+# Career specialization:
 [Meta developer curriculum](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
 [Python Mega Course - Ardit Sulce on Udemy](https://www.udemy.com/course/the-python-mega-course/)
